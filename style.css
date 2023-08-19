@@ -1,0 +1,14 @@
+* {
+    /* border: 1px solid red; */
+    /* margin: 0;
+    padding: 0; */
+}
+
+#header, .navbar-brand, #contact, #login-header, #about-header, #logout-info {
+    font-family: 'Cinzel', serif;
+}
+
+
+.nav-item, form, p, h6, button {
+    font-family: 'Raleway', sans-serif;
+}
